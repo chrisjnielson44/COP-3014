@@ -5,7 +5,7 @@ This repository contains my assignments for the COP 3014 Intro to Programming cl
 ## Repository Structure
 
 The repository is structured by assignment number, and each assignment has its own folder with the corresponding files. The assignments are organized as follows:
-`
+```bash
 ./
 ├── assignment-1/
 │   ├── src/
@@ -20,7 +20,6 @@ The repository is structured by assignment number, and each assignment has its o
 │   ├── README.md
 │   └── ...
 └── ...
-`
 
 ## How to Use
 
