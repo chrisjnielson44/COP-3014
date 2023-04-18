@@ -20,7 +20,7 @@ The repository is structured by assignment number, and each assignment has its o
 │   ├── README.md
 │   └── ...
 └── ...
-`
+```
 ## How to Use
 
 You can clone this repository to your local machine and review the code for each assignment. You can also use it as a reference for your own programming projects or to practice your programming skills.
