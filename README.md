@@ -9,7 +9,3 @@ The repository is structured by assignment number, and each assignment has its o
 ## How to Use
 
 You can clone this repository to your local machine and review the code for each assignment. You can also use it as a reference for your own programming projects or to practice your programming skills.
-
-## License
-
-This repository is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
